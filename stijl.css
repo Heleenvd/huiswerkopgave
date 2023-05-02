@@ -1,0 +1,14 @@
+head{
+    background-color: beige;
+    width: 100%;
+    height: 300px;
+    }
+    body{
+    background-color: brown;
+    color: green;
+    }
+    footer{
+        background-color: yellow;
+        width: 150%;
+        height: 300px;
+    }
